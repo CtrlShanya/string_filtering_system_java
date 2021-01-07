@@ -7,7 +7,7 @@ interface Filter
 }
 
 
-public class Ques7 
+public class StringFilter 
 {
     public static String[] filtering(String[] a, Filter f)
     {
